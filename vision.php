@@ -1,2 +1,2 @@
 <?php 
-echo 'Esta es la vision de la empresa';
+echo 'Esta es la vision de la empresa V2';
