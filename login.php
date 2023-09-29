@@ -1,2 +1,2 @@
 <?php
-echo "Inicia sesión ahora mismo";
+echo "Inicia sesión ahora mismo - Nueva versión #2";
