@@ -1,2 +1,2 @@
 <?php 
-echo "Página principal";
+echo "Nuevo cambio para Página principal";
